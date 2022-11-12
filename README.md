@@ -1,4 +1,4 @@
 
 
-This project is a Login and Regisration System using C++
+This is a Login and Regisration System, implemented using c++.
 
