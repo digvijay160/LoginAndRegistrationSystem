@@ -91,7 +91,7 @@ void login(){
     exit(0);
 }
 
-void forgot(){
+void forgot(){                              //password recovery section
     string username,u,p,c,color;
     cout<<"\n\t|| You forgot your password, lets try to recover your password.";
     cout<<"\n\t|| Enter your Username: ";
