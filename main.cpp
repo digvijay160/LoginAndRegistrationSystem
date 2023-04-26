@@ -8,7 +8,7 @@ void login();
 void registration();
 void forgot();
 
-bool checkLogIn(){                      //checks if input uname and pass are in database or not
+bool checkLogIn(){                      //checks if input uname and password are in database or not
     string username,password,u,p;       //u and p are to compare username and password
 
     cout<<"\t\tPlease Enter USername and Password: \n";
